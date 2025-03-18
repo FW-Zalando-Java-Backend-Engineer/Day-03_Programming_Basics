@@ -163,7 +163,7 @@ public class PrimeNumberChecker {
 - **[Java Operators Guide](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html)**
 - **[Java Control Flow Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)**
 - **[Functions & Methods in Java](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)**
-- **[Lesson Slides: Introduction to Programming with Java](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)**
+- **[Lesson Slides: Introduction to Programming with Java](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-03_Programming_Basics/blob/main/Introduction%20to%20Programming%20with%20Java.pdf)**
 - **Video Lesson Recording:** *[Link to be added]*
 
 ---
